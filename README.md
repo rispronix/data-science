@@ -4,7 +4,7 @@
 * Data Engineering: transformation, transportation and persisting of large datasets for use by machine learning and artificial intelligence systems.
 * Machine Learning: empirical inductive reasoning upon large datasets.
 * Artificial Intelligence: computer systems mimicking cognitive behaviours found in humans and other animals.
-* Devops: managing developer environments, versioning, deployment of applications.
+* Devops: managing developer environments, versioning, integration and deployment of applications.
 * Sysadmin: maintaining and monitoring systems in production.
 
 # This Project
